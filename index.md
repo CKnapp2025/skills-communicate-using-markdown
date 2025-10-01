@@ -6,3 +6,7 @@
 ###### And H6! Which is the smallest...
 
 ![Image of a Network Interface Card](https://static.macaddresslookup.io/blog/nic-1738570434.png)
+
+``` lua
+print("Hello World!")
+```
